@@ -30,11 +30,12 @@ Esta aplicación permite predecir el desempeño académico de estudiantes univer
 
 ```
 Modelo-Prediccion-Desempeno-Academico-Estudiantes-Basado-Factores-Determinantes/
+├── models/
+│   └── random_forest.pkl
 ├── app.py
 ├── requirements.txt
 ├── Procfile
-├── models/
-│   └── random_forest.pkl
+├── EJEMPLO-StudentPerformanceFactors.csv
 └── README.md
 ```
 
