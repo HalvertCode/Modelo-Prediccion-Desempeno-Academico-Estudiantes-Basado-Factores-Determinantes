@@ -16,7 +16,7 @@ def load_saved_model(path="models/random_forest.pkl"):
     return joblib.load(path) if os.path.exists(path) else None
 
 # Título y navegación
-st.title("Predicción de Calificaciones de Estudiantes 📊📈")
+st.title("Modelo de Predicción del Desempeño Académico de Estudiantes Basado en Factores Determinantes 📊📈")
 st.sidebar.header("Navegación")
 page = st.sidebar.selectbox(
     "Selecciona una sección:",
