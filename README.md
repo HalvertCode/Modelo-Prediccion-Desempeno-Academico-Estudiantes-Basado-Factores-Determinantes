@@ -55,6 +55,11 @@ Instala las dependencias con:
 pip install -r requirements.txt
 ```
 
+### 📂 Dataset de ejemplo
+
+Puedes usar el archivo [`EJEMPLO-StudentPerformanceFactors.csv`](./EJEMPLO-StudentPerformanceFactors.csv) incluido en este repositorio para probar la app web.
+
+
 ### 🧠 Modelo Utilizado
 
 Se emplea un modelo de Random Forest Regressor para predecir el rendimiento académico basado en factores determinantes como hábitos de estudio, asistencia y participación en clase.
