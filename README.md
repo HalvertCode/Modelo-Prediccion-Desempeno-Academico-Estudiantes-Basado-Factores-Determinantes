@@ -3,11 +3,12 @@
 ### ELABORADO POR ESTUDIANTES DE LA UNIVERSIDAD PRIVADA ANTENOR ORREGO
 
 ### 😸 GRUPO C INTEGRANTES
--Guerrero Puicón, Halvert
--Lopez Ortega, Alvaro
--Ortiz Barboza, Anghelo
--Rodriguez Lara, Franklin
--Vasquez Saenz, Juan
+
+* **Guerrero Puicón, Halvert**
+* **Lopez Ortega, Alvaro**
+* **Ortiz Barboza, Anghelo**
+* **Rodriguez Lara, Franklin**
+* **Vasquez Saenz, Juan**
 
 ### 🎯 Descripción
 
