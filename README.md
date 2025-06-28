@@ -19,7 +19,7 @@ Esta aplicación permite predecir el desempeño académico de estudiantes univer
 ### 📂 Estructura del Proyecto
 
 ```
-modelo-prediccion-estudiantes/
+Modelo-Prediccion-Desempeno-Academico-Estudiantes-Basado-Factores-Determinantes/
 ├── app.py
 ├── requirements.txt
 ├── Procfile
@@ -30,7 +30,7 @@ modelo-prediccion-estudiantes/
 
 ### 📦 Requisitos
 
-* Python 3.10 o superior
+* Python 3.10
 * Streamlit
 * Pandas
 * NumPy
