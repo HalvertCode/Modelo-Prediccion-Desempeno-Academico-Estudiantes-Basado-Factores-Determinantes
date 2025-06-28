@@ -1,5 +1,14 @@
 ## 📘 Modelo de Predicción del Desempeño Académico de Estudiantes
 
+### ELABORADO POR ESTUDIANTES DE LA UNIVERSIDAD PRIVADA ANTENOR ORREGO
+
+### 😸 GRUPO C INTEGRANTES
+-Guerrero Puicón, Halvert
+-Lopez Ortega, Alvaro
+-Ortiz Barboza, Anghelo
+-Rodriguez Lara, Franklin
+-Vasquez Saenz, Juan
+
 ### 🎯 Descripción
 
 Esta aplicación permite predecir el desempeño académico de estudiantes universitarios utilizando un modelo de Random Forest. Ofrece una interfaz interactiva para la carga de datos, ajuste de hiperparámetros y visualización de resultados.
@@ -47,7 +56,3 @@ pip install -r requirements.txt
 ### 🧠 Modelo Utilizado
 
 Se emplea un modelo de Random Forest Regressor para predecir el rendimiento académico basado en factores determinantes como hábitos de estudio, asistencia y participación en clase.
-
-### 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, por favor realiza un fork del repositorio y envía un pull request.
