@@ -1,7 +1,5 @@
 ## 📘 Modelo de Predicción del Desempeño Académico de Estudiantes
 
-![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-
 ### 🎯 Descripción
 
 Esta aplicación permite predecir el desempeño académico de estudiantes universitarios utilizando un modelo de Random Forest. Ofrece una interfaz interactiva para la carga de datos, ajuste de hiperparámetros y visualización de resultados.
