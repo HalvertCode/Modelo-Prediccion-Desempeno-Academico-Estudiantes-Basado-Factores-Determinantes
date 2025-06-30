@@ -30,6 +30,9 @@ Esta aplicación permite predecir el desempeño académico de estudiantes univer
 
 ```
 Modelo-Prediccion-Desempeno-Academico-Estudiantes-Basado-Factores-Determinantes/
+├── data_notebook/
+│   └── kaggle.json
+│   └── PROYECTO_FINAL_GRUPO_C.ipynb
 ├── models/
 │   └── random_forest.pkl
 ├── app.py
