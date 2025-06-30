@@ -229,3 +229,8 @@ else:
                 X_new = new_enc.reindex(columns=st.session_state['feature_names'], fill_value=0)
                 pred = model.predict(X_new)[0]
                 st.success(f"Predicción de calificación: {pred:.2f}")
+                if pred >= 60:
+                    st.balloons()
+                    st.info("✅ El estudiante aprueba.")
+                else:
+                    st.error("❌ El estudiante desaprueba.")
