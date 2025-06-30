@@ -24,7 +24,7 @@ Esta aplicación permite predecir el desempeño académico de estudiantes univer
 * **Exploración de Datos:** Visualiza estadísticas descriptivas y distribuciones de variables.
 * **Ajuste de Hiperparámetros:** Interfaz para modificar parámetros del modelo y observar su impacto.
 * **Entrenamiento del Modelo:** Entrena un modelo de Random Forest con los datos proporcionados.
-* **Evaluación del Modelo:** Muestra métricas como MAE, RMSE y R² para evaluar el rendimiento.
+* **Evaluación del Modelo:** Muestra métricas como MAE y RMSE para evaluar el rendimiento.
 
 ### 📂 Estructura del Proyecto
 
